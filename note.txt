@@ -1,3 +1,7 @@
 git status
 git add -A       工作区 -> 暂存区
 git commit -m "first commit//是描述" 暂存区 -> 本地仓库
+git log显示历史版本
+git log --pretty=oneline精简显示历史版本
+git reset --hard hashcode...... 重置到某个版本
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCpc6RKJtfJgzP6NYdciozBtIyEGUNmnP9ywF2HEMPIWZtMNBbHqaij7wEWAz1wIarnR/k9W9M7ws0SgFvXZrdRkB4Q50Xz064KzdC9VKZpJAXW4yDwTO34CdCB8ikJYNqy7+9QSLgLFOJUnp43PrzkfjPOYVROU5iwRasq3bOcpl/Bd5Uc0+lk+BMVUBTCD0GNhfI0kiMX/C7w7cmmZ1GTHMGJHNuiodRpVApxdTpSD9XAkGteFkw0iwful0h4gsx3F00/JCUniLw50VMVljfcnbuj5hEmi9tmolRGYYVw4fyzPBSgLK9P2VaksKtVkkyr8SLPxyEOcERY3Ul5zDQXfGQ3bhqAFn2ARBsy/vxCmc1kDINGu+7sQKXdXTrfN4ypsmlwa4Lw4UV8J/CwJov8BxM5U/AynacQAArMecJ8asxNPs8omQrcojjoNgFt6FQ+Eudddk5Sz2+KvmHEyerMWxkFZRFXo2pV6N9mVojEJWeNuS/if12ewqCKmPodWAnRzdO0i/dpK7EpNHLhm0Wl8S3Ni+8Vd8A379wZAoYZNAxZiWXwc2hwZN9NGQy4Wxx2x9NH/QWmxx78Yj3dlvgigqRX1rrCu0u7S03ziI+m3o3iOWayeWC2Hcv6QFbYNrKamH0BpIzyNtc5IKKyD1jZvyRHWV/30a29L7wynsVXZQ== lwsjwm124@163.com
