@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T06:28:58.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0lUnwvho4lV71abixyyg" version="12.4.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-19T07:36:50.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dJXR_x1qpO4sBsZ44Nj6" version="12.4.3" type="github" pages="2">
   <diagram id="v5UNNmAI6avvm8mkg2mC" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -154,10 +154,10 @@
           <mxGeometry x="340" y="120" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-3" value="记录方法信息，&lt;br&gt;标记方法分类，&lt;br&gt;开始时间，&lt;br&gt;如果没有requestId则生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="580" y="110" width="140" height="60" as="geometry"/>
+          <mxGeometry x="580" y="200" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-5" value="如果有，记录http方法，url，解析token后的用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="580" y="200" width="140" height="60" as="geometry"/>
+          <mxGeometry x="580" y="290" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sst771WhAO_1PTalGaOI-1" source="sst771WhAO_1PTalGaOI-6" target="sst771WhAO_1PTalGaOI-9">
           <mxGeometry relative="1" as="geometry"/>
@@ -166,22 +166,43 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-6" value="方法打印日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="340" y="400" width="100" height="40" as="geometry"/>
+          <mxGeometry x="340" y="550" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-9" value="记录到threadLocal里" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="810" y="390" width="120" height="60" as="geometry"/>
+          <mxGeometry x="810" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sst771WhAO_1PTalGaOI-1" source="sst771WhAO_1PTalGaOI-11" target="sst771WhAO_1PTalGaOI-13">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-11" value="方法出口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="340" y="630" width="100" height="40" as="geometry"/>
+          <mxGeometry x="340" y="760" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sst771WhAO_1PTalGaOI-1" source="sst771WhAO_1PTalGaOI-13" target="sst771WhAO_1PTalGaOI-19">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-13" value="记录方法耗时&lt;br&gt;记录返回值&lt;br&gt;如果异常返回，记录异常信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="570" y="620" width="160" height="60" as="geometry"/>
+          <mxGeometry x="580" y="750" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sst771WhAO_1PTalGaOI-1" source="sst771WhAO_1PTalGaOI-14" target="sst771WhAO_1PTalGaOI-15">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-14" value="threadLocal中的日志对象推入日志队列&lt;br&gt;清空threadLocal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="590" y="770" width="120" height="60" as="geometry"/>
+          <mxGeometry x="600" y="950" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="sst771WhAO_1PTalGaOI-15" value="日志对象处理逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
-          <mxGeometry x="1220" y="770" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1220" y="950" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-17" value="获取配置信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
+          <mxGeometry x="580" y="110" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-18" value="方法参数json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
+          <mxGeometry x="580" y="390" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sst771WhAO_1PTalGaOI-1" source="sst771WhAO_1PTalGaOI-19" target="sst771WhAO_1PTalGaOI-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="sst771WhAO_1PTalGaOI-19" value="todo 记录返回的code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sst771WhAO_1PTalGaOI-1">
+          <mxGeometry x="600" y="850" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
