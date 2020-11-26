@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:41:23.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VNZ__ZgQvdd38tBDI7Sz" version="13.10.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:55:33.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YyZklWlH7hbPSuz-u61S" version="13.10.1" type="github" pages="3">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -493,6 +493,9 @@
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-224" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-221">
           <mxGeometry x="248" width="153" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-243" value="凭证？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
+          <mxGeometry x="1012" y="813" width="52" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
