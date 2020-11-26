@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:22:58.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="59z_zKyv0RIeRKG5n7um" version="13.10.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:27:58.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vIpc3rh7uZrvEHH8T0gB" version="13.10.1" type="github" pages="3">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -409,10 +409,10 @@
           <mxGeometry y="527" width="180" height="23" as="geometry" />
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-115" value="资产变动方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
-          <mxGeometry x="495" y="466" width="94" height="21" as="geometry" />
+          <mxGeometry x="500" y="481" width="94" height="21" as="geometry" />
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-116" value="资产变动记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
-          <mxGeometry x="798" y="360" width="94" height="21" as="geometry" />
+          <mxGeometry x="805" y="405" width="94" height="21" as="geometry" />
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-193" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
           <mxGeometry x="1167" y="493" width="375" height="85.08331298828125" as="geometry" />
