@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:55:33.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YyZklWlH7hbPSuz-u61S" version="13.10.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:15:28.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UtyTpLLjG0zt21nWgrmo" version="13.10.1" type="github" pages="3">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-63" value="zcbm" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-50">
           <mxGeometry y="97" width="196" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-69" value="org_name（村组名称，从哪取？）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-50">
+        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-69" value="org_name（村组名称）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-50">
           <mxGeometry y="122" width="196" height="23" as="geometry" />
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-114" value="total（金额）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-50">
@@ -496,6 +496,9 @@
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-243" value="凭证？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
           <mxGeometry x="1012" y="813" width="52" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-244" value="村组？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-1">
+          <mxGeometry x="1006" y="562" width="52" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
