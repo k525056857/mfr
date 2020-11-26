@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:40:20.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="pCPxsQndkJx7zEBHi6h3" version="13.10.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:40:29.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ogwKjmi3vNPkdxe2F2ek" version="13.10.1" type="github" pages="3">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-21" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-19">
           <mxGeometry y="50" width="180" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-22" value="type --数据字典？" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-19">
+        <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-22" value="type --数据字典还是枚举" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-19">
           <mxGeometry y="74" width="180" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jfyPEhx0ZL7Dfr9t1Ga6-24" value="kmid" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="jfyPEhx0ZL7Dfr9t1Ga6-19">
