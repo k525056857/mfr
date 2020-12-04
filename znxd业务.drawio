@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T02:23:35.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="dVFvAzORDuSqEy2H3HCJ" version="13.10.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-04T02:27:50.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="i1bm3NMQKakw8Op2bSEl" version="13.10.8" type="github" pages="4">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -667,6 +667,9 @@
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-64" value="旧版只有一个目标凭证，新版有卡片借贷，折旧借贷等四个。&lt;br&gt;&lt;br&gt;旧版的那个是新版中的哪个？旧版的另一半是什么？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
           <mxGeometry x="530" y="1180" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rwc0wQClkzSqDhJzcS2H-65" value="是属于组级jjzz或者村级jjzz？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
+          <mxGeometry x="520" y="630" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
