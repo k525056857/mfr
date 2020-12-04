@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T02:22:08.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BVBAeuaFmbE2ev8d73Ug" version="13.10.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-04T02:23:35.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="dVFvAzORDuSqEy2H3HCJ" version="13.10.8" type="github" pages="4">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1209" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -626,25 +626,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-46" value="资产录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
-          <mxGeometry x="1270" y="336" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="473" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rwc0wQClkzSqDhJzcS2H-1" source="rwc0wQClkzSqDhJzcS2H-47" target="rwc0wQClkzSqDhJzcS2H-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-47" value="保存&lt;br&gt;可生成凭证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
-          <mxGeometry x="1270" y="476" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="613" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rwc0wQClkzSqDhJzcS2H-1" source="rwc0wQClkzSqDhJzcS2H-51" target="rwc0wQClkzSqDhJzcS2H-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-51" value="修改折旧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
-          <mxGeometry x="1270" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="777" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rwc0wQClkzSqDhJzcS2H-1" source="rwc0wQClkzSqDhJzcS2H-53" target="rwc0wQClkzSqDhJzcS2H-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="810" />
-              <mxPoint x="1150" y="670" />
+              <mxPoint x="1610" y="947" />
+              <mxPoint x="1610" y="807" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -654,7 +654,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-53" value="提折旧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
-          <mxGeometry x="1270" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="917" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-61" value="使用状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
           <mxGeometry x="270" y="880" width="60" height="20" as="geometry" />
