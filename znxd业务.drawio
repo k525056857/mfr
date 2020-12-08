@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T00:36:44.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Mmz-K3cwBcsJZoFvDESG" version="13.10.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-08T00:37:14.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="oaMlkXPTafDJgsUPre8i" version="13.10.9" type="github" pages="4">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -616,7 +616,7 @@
         <mxCell id="rwc0wQClkzSqDhJzcS2H-45" value=" " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rwc0wQClkzSqDhJzcS2H-9" vertex="1">
           <mxGeometry y="1016" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rwc0wQClkzSqDhJzcS2H-44" value="合同执行情况 ：&#xa;contractStatus  string" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rwc0wQClkzSqDhJzcS2H-9" vertex="1">
+        <mxCell id="rwc0wQClkzSqDhJzcS2H-44" value="合同执行情况 ：&#xa;contractStatus  string" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rwc0wQClkzSqDhJzcS2H-9" vertex="1">
           <mxGeometry y="1046" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwc0wQClkzSqDhJzcS2H-41" value=" " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rwc0wQClkzSqDhJzcS2H-9" vertex="1">
@@ -671,13 +671,13 @@
         <mxCell id="rwc0wQClkzSqDhJzcS2H-65" value="是属于组级jjzz或者村级jjzz" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rwc0wQClkzSqDhJzcS2H-1" vertex="1">
           <mxGeometry x="525" y="630" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MMvPDyQb6Fu1hERpj_RX-0" value="useState enum" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
+        <mxCell id="MMvPDyQb6Fu1hERpj_RX-0" value="useState enum" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
           <mxGeometry x="540" y="792" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMvPDyQb6Fu1hERpj_RX-1" value="zyChangeState enum" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
+        <mxCell id="MMvPDyQb6Fu1hERpj_RX-1" value="zyChangeState enum" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
           <mxGeometry x="540" y="822" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MMvPDyQb6Fu1hERpj_RX-2" value="zyUseState string" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
+        <mxCell id="MMvPDyQb6Fu1hERpj_RX-2" value="zyUseState string" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
           <mxGeometry x="540" y="850" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MMvPDyQb6Fu1hERpj_RX-3" value="&lt;font color=&quot;#000000&quot;&gt;资产状态，资源变动状态，资源使用状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#666666;" vertex="1" parent="rwc0wQClkzSqDhJzcS2H-1">
