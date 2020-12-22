@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T07:44:24.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SyxBfaapLi16a1XVPt_Q" version="14.0.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-22T09:25:44.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OvM2SXTM_xwkOZ7MAuec" version="14.0.5" type="github" pages="7">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -801,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pvsmYbdHE416W7JPWUJC" name="第 7 页">
-    <mxGraphModel dx="1038" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="980" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="-XrqjHlO9uNUCBp-mLe9-0" />
         <mxCell id="-XrqjHlO9uNUCBp-mLe9-1" parent="-XrqjHlO9uNUCBp-mLe9-0" />
@@ -850,14 +850,50 @@
         <mxCell id="J7Gt6qyIafyczRF5Y6XR-6" value="判断是否年结" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
           <mxGeometry x="670" y="570" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="J7Gt6qyIafyczRF5Y6XR-7" value="起始时间==当前年月" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
-          <mxGeometry x="1760" y="697" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="J7Gt6qyIafyczRF5Y6XR-8" value="init" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
-          <mxGeometry x="1980" y="700" width="110" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="J7Gt6qyIafyczRF5Y6XR-10" value="summary" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
           <mxGeometry x="890" y="656" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-11" value="初始化配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1530" y="1160" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-12" value="启用年月&lt;br&gt;当前年月" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1650" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-13" value="提取科目模板" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1734" y="1272" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-15" value="state改为1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1530" y="1428" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-17" value="录入凭证" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1938" y="1522" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-18" value="更新余额" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="2346" y="1522" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-19" value="初始化科目余额表" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="2346" y="1343" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-20" value="保存期初余额" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="2125" y="1343" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-22" value="完成初始化" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="2125" y="1411" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-23" value="审核" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1938" y="1615" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-24" value="记账" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1938" y="1700" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-25" value="年终结转" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1938" y="1802" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-26" value="查到所有损益类借，损益类贷" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="2346" y="1887" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-27" value="查到所有损益类借，损益类贷" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1938" y="2023" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
