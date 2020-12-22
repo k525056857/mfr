@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T13:31:36.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Cwnqw11gQo0hscwqjOer" version="14.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-22T07:38:05.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="77MVONgOc01djSOYTR5G" version="14.0.5" type="github" pages="7">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -270,23 +270,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="--ViNHyPdPTYmstFnes3" name="第 2 页">
-    <mxGraphModel dx="1209" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="ux0PLcJ50NScR6jQ1ojC-0" />
         <mxCell id="ux0PLcJ50NScR6jQ1ojC-1" parent="ux0PLcJ50NScR6jQ1ojC-0" />
-        <mxCell id="ux0PLcJ50NScR6jQ1ojC-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化系统参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ux0PLcJ50NScR6jQ1ojC-1">
+        <mxCell id="ux0PLcJ50NScR6jQ1ojC-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化系统参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="ux0PLcJ50NScR6jQ1ojC-1" vertex="1">
           <mxGeometry x="240" y="330" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ux0PLcJ50NScR6jQ1ojC-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;导入科目 or 模板提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ux0PLcJ50NScR6jQ1ojC-1">
+        <mxCell id="ux0PLcJ50NScR6jQ1ojC-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;导入科目 or 模板提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="ux0PLcJ50NScR6jQ1ojC-1" vertex="1">
           <mxGeometry x="330" y="470" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ux0PLcJ50NScR6jQ1ojC-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;创建、修改、删除明细科目&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ux0PLcJ50NScR6jQ1ojC-1">
+        <mxCell id="ux0PLcJ50NScR6jQ1ojC-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;创建、修改、删除明细科目&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="ux0PLcJ50NScR6jQ1ojC-1" vertex="1">
           <mxGeometry x="330" y="570" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ux0PLcJ50NScR6jQ1ojC-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;取消初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="ux0PLcJ50NScR6jQ1ojC-1">
+        <mxCell id="ux0PLcJ50NScR6jQ1ojC-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;取消初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="ux0PLcJ50NScR6jQ1ojC-1" vertex="1">
           <mxGeometry x="460" y="330" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ux0PLcJ50NScR6jQ1ojC-9" value="删除:&lt;br&gt;辅助核算明细sz_fzhsmx&lt;br&gt;辅助核算类别sz_fzlb&amp;nbsp; &amp;nbsp;——为什么没删辅助核算余额表？&lt;br&gt;原始凭证sz_yspz&lt;br&gt;凭证sz_pzh&lt;br&gt;明细科目sz_kmzd&lt;br&gt;科目余额表数量sz_kmyeb_sl&lt;br&gt;科目余额sz_kmyeb&lt;br&gt;设置sz_config&lt;br&gt;凭证模板sz_pzmb&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;——?是啥&lt;br&gt;凭证摘要模板sz_template —— ?&lt;br&gt;预决算sz_budget，sz_budget_list" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="ux0PLcJ50NScR6jQ1ojC-1">
+        <mxCell id="ux0PLcJ50NScR6jQ1ojC-9" value="删除:&lt;br&gt;辅助核算明细sz_fzhsmx&lt;br&gt;辅助核算类别sz_fzlb&amp;nbsp; &amp;nbsp;——为什么没删辅助核算余额表？&lt;br&gt;原始凭证sz_yspz&lt;br&gt;凭证sz_pzh&lt;br&gt;明细科目sz_kmzd&lt;br&gt;科目余额表数量sz_kmyeb_sl&lt;br&gt;科目余额sz_kmyeb&lt;br&gt;设置sz_config&lt;br&gt;凭证模板sz_pzmb&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;——?是啥&lt;br&gt;凭证摘要模板sz_template —— ?&lt;br&gt;预决算sz_budget，sz_budget_list" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="ux0PLcJ50NScR6jQ1ojC-1" vertex="1">
           <mxGeometry x="610" y="240" width="360" height="210" as="geometry" />
         </mxCell>
       </root>
@@ -773,29 +773,82 @@
       <root>
         <mxCell id="2XisBvtGRe9WcT_qthmj-0" />
         <mxCell id="2XisBvtGRe9WcT_qthmj-1" parent="2XisBvtGRe9WcT_qthmj-0" />
-        <mxCell id="2XisBvtGRe9WcT_qthmj-2" value="添加合同" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-2" value="添加合同" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="390" y="240" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-3" value="关联资产" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-3" value="关联资产" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="190" y="380" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-5" value="生成收付款计划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-5" value="生成收付款计划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="600" y="375" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-6" value="修改收付款计划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-6" value="修改收付款计划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="600" y="488" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-7" value="添加收款记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-7" value="添加收款记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="824" y="577" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-8" value="选择关联凭证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-8" value="选择关联凭证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="1070" y="577" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2XisBvtGRe9WcT_qthmj-1" source="2XisBvtGRe9WcT_qthmj-7" target="2XisBvtGRe9WcT_qthmj-7">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="2XisBvtGRe9WcT_qthmj-1" source="2XisBvtGRe9WcT_qthmj-7" target="2XisBvtGRe9WcT_qthmj-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2XisBvtGRe9WcT_qthmj-10" value="归档、消档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XisBvtGRe9WcT_qthmj-1">
+        <mxCell id="2XisBvtGRe9WcT_qthmj-10" value="归档、消档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="2XisBvtGRe9WcT_qthmj-1" vertex="1">
           <mxGeometry x="390" y="653" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pvsmYbdHE416W7JPWUJC" name="第 7 页">
+    <mxGraphModel dx="1038" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="-XrqjHlO9uNUCBp-mLe9-0" />
+        <mxCell id="-XrqjHlO9uNUCBp-mLe9-1" parent="-XrqjHlO9uNUCBp-mLe9-0" />
+        <mxCell id="-XrqjHlO9uNUCBp-mLe9-2" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#B3B3B3;" edge="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1760" as="sourcePoint" />
+            <mxPoint x="620" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrqjHlO9uNUCBp-mLe9-6" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#B3B3B3;" edge="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1760" as="sourcePoint" />
+            <mxPoint x="400" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhgJAVXEDhmHIBsfgcDb-0" value="check科目是否明细、可用" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="450" y="180" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgJAVXEDhmHIBsfgcDb-1" value="check是否借贷平衡" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="450" y="240" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgJAVXEDhmHIBsfgcDb-2" value="check是否建账" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="240" y="40" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-0" value="check制单日期是否是当前年月" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="240" y="110" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-1" value="构造pzks" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="450" y="330" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-2" value="构造pzh" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="670" y="350" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#B3B3B3;" edge="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="1760" as="sourcePoint" />
+            <mxPoint x="830" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-4" value="写入pzh" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="670" y="440" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-5" value="写入pzks" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="450" y="470" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-6" value="判断是否年结" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="670" y="570" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
