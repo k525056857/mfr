@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T07:38:05.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="77MVONgOc01djSOYTR5G" version="14.0.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-22T07:44:24.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SyxBfaapLi16a1XVPt_Q" version="14.0.5" type="github" pages="7">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -849,6 +849,15 @@
         </mxCell>
         <mxCell id="J7Gt6qyIafyczRF5Y6XR-6" value="判断是否年结" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
           <mxGeometry x="670" y="570" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-7" value="起始时间==当前年月" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1760" y="697" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-8" value="init" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="1980" y="700" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J7Gt6qyIafyczRF5Y6XR-10" value="summary" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="-XrqjHlO9uNUCBp-mLe9-1">
+          <mxGeometry x="890" y="656" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
