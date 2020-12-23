@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T03:11:23.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MTDJCqG7yzV4EVFqQx2o" version="14.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-23T03:33:19.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zD5UAlY9Uax4z6UuHFcU" version="14.1.1" type="github" pages="8">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1026,10 +1026,7 @@
         <mxCell id="cxDBwXeqb7XaJws-Sq25-117" value="录入时，生成&lt;br&gt;构建时间~当前时间的折旧记录" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
           <mxGeometry x="380" y="470" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-91" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;生成折旧记录时，&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;若折旧月份等于&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;当前财务月份，&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;则同时生成凭证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="800" y="510" width="110" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-15" target="cxDBwXeqb7XaJws-Sq25-46">
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-58" target="cxDBwXeqb7XaJws-Sq25-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-132" value="在本月自动折旧之前就结转下月了（财务日期 &amp;gt; 当前日期），怎么处理？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
@@ -1041,26 +1038,37 @@
         <mxCell id="cxDBwXeqb7XaJws-Sq25-135" value="结转下月" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
           <mxGeometry x="1240" y="591" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-136" target="cxDBwXeqb7XaJws-Sq25-142">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" target="cxDBwXeqb7XaJws-Sq25-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="849" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-136" value="找到折旧记录。&lt;br&gt;折旧月份：结转后的年月" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-136" value="遍历资产，&lt;br&gt;找到折旧记录" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
           <mxGeometry x="1240" y="675" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-137" value="根据构建日期和当前日期判断是否生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
           <mxGeometry x="580" y="432" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-138" value="根据财务日期和计提频率判断是否生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="920" y="430" width="220" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-142" value="生成凭证。&lt;br&gt;年月：结转后的月份" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="1240" y="770" width="110" height="44" as="geometry" />
+          <mxGeometry x="1240" y="890" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;dashed=1;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-47" target="cxDBwXeqb7XaJws-Sq25-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontColor=#999999;strokeColor=#999999;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-51" target="cxDBwXeqb7XaJws-Sq25-132">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-148" value="根据计提频率和当前财务日期判断是否生成凭证" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="810" y="600" width="90" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="719" as="sourcePoint" />
+            <mxPoint x="1295" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-151" value="根据计提频率和当前财务日期判断是否生成凭证" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="1250" y="770" width="90" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
