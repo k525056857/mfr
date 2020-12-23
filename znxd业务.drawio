@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T02:35:53.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GanwrGw2cVI5L5kyJpad" version="14.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-23T02:36:21.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ja4cn9xBXxOuWfFvdHrD" version="14.1.1" type="github" pages="8">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -967,7 +967,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-35" value="结转下月" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="1070" y="570" width="110" height="44" as="geometry" />
+          <mxGeometry x="1070" y="578" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-36" value="生成凭证" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
           <mxGeometry x="1070" y="680" width="110" height="44" as="geometry" />
