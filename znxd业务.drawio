@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T02:55:04.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nUAILT9glh8kuMWQ2zqZ" version="14.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-23T02:59:56.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Qnc_ZJkIRQxk6038-iin" version="14.1.1" type="github" pages="8">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1000,10 +1000,10 @@
           <mxGeometry y="356" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-60" value="&lt;font color=&quot;#000000&quot;&gt;1. 生成折旧记录时，若折旧年月等于当前财务年月&lt;br&gt;2. 结转下月时，生成结转后的财务月份的&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF9999;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="930" y="404" width="280" height="30" as="geometry" />
+          <mxGeometry x="1175" y="340" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-61" value="财务日期：&lt;span style=&quot;background-color: rgb(185 , 224 , 165)&quot;&gt;2020.7&lt;/span&gt;&lt;br&gt;&lt;br&gt;构建日期：2020.3&lt;br&gt;预计使用月数：12&lt;br&gt;已使用月数：0&lt;br&gt;计提频率：月&lt;br&gt;&lt;br&gt;录入日期：2020.12.23" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="490" y="306" width="150" height="128" as="geometry" />
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-61" value="财务日期：&lt;span style=&quot;background-color: rgb(185 , 224 , 165)&quot;&gt;2020.7&lt;/span&gt;&lt;br&gt;&lt;br&gt;构建日期：2020.3&lt;br&gt;预计使用月数：12&lt;br&gt;已使用月数：0&lt;br&gt;计提频率：月&lt;br&gt;&lt;br&gt;录入日期（当前日期）：2020.12.23" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="480" y="291" width="150" height="139" as="geometry" />
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-10" target="cxDBwXeqb7XaJws-Sq25-43">
           <mxGeometry relative="1" as="geometry" />
@@ -1032,8 +1032,20 @@
         <mxCell id="cxDBwXeqb7XaJws-Sq25-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-15" target="cxDBwXeqb7XaJws-Sq25-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cxDBwXeqb7XaJws-Sq25-132" value="在本月自动折旧之前就结转下月了，怎么处理？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
-          <mxGeometry x="1160" y="723" width="270" height="20" as="geometry" />
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-132" value="在本月自动折旧之前就结转下月了（财务日期 &amp;gt; 当前日期），怎么处理？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="1370" y="600" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-135" value="结转下月" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="1260" y="510" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-136" value="找到当月的折旧记录" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;labelBackgroundColor=none;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="1260" y="595" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-137" value="根据构建日期和当前日期判断是否生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="580" y="432" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-138" value="根据财务日期和计提频率判断是否生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="920" y="430" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
