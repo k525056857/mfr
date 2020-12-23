@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T02:52:52.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="arZAmyZy35KybAcNjOEe" version="14.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-23T02:54:05.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-ZyqnxyyWSOEogcYF3cW" version="14.1.1" type="github" pages="8">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1031,6 +1031,9 @@
         </mxCell>
         <mxCell id="cxDBwXeqb7XaJws-Sq25-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="cxDBwXeqb7XaJws-Sq25-1" source="cxDBwXeqb7XaJws-Sq25-15" target="cxDBwXeqb7XaJws-Sq25-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxDBwXeqb7XaJws-Sq25-132" value="在本月自动折旧之前就结转下月了，怎么处理？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="cxDBwXeqb7XaJws-Sq25-1">
+          <mxGeometry x="1160" y="723" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
