@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T04:23:34.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="54wYspVeIu_NlLoW4VFx" version="14.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-29T05:25:02.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ez9Cl4TMK1A87uaveL6B" version="14.1.2" type="github" pages="9">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1105,7 +1105,7 @@
         <mxCell id="6kWoghGVNUJ0AK2XLeaY-65" value="qcye_dai" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="6kWoghGVNUJ0AK2XLeaY-2" vertex="1">
           <mxGeometry y="180" width="200" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="6kWoghGVNUJ0AK2XLeaY-10" value="isfz  是否是辅助核算科目  0, 1" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="6kWoghGVNUJ0AK2XLeaY-2" vertex="1">
+        <mxCell id="6kWoghGVNUJ0AK2XLeaY-10" value="isfz  是否是辅助核算明细科目  0, 1" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="6kWoghGVNUJ0AK2XLeaY-2" vertex="1">
           <mxGeometry y="202" width="200" height="22" as="geometry" />
         </mxCell>
         <mxCell id="6kWoghGVNUJ0AK2XLeaY-11" value="fzhs  &quot;-&quot; or  辅助核算类别ids" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="6kWoghGVNUJ0AK2XLeaY-2" vertex="1">
