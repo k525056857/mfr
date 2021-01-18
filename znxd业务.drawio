@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T07:35:30.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pHPTrG5qlHw_KsUd-Hxr" version="14.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-01-18T09:29:16.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cP5kHVIkHTdXh9sCdBbY" version="14.1.4" type="github" pages="10">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1420,9 +1420,6 @@
         <mxCell id="iO5iz-ZMt-wIjHp8NI-l-15" value="系统管理类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iO5iz-ZMt-wIjHp8NI-l-19" value="业务相关权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
-          <mxGeometry x="718.75" y="400" width="107.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iO5iz-ZMt-wIjHp8NI-l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="iO5iz-ZMt-wIjHp8NI-l-1" source="iO5iz-ZMt-wIjHp8NI-l-27" target="iO5iz-ZMt-wIjHp8NI-l-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1440,12 +1437,6 @@
         </mxCell>
         <mxCell id="iO5iz-ZMt-wIjHp8NI-l-39" value="安全审计类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iO5iz-ZMt-wIjHp8NI-l-41" value="业务相关权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
-          <mxGeometry x="722.5" y="215" width="107.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iO5iz-ZMt-wIjHp8NI-l-42" value="业务相关权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
-          <mxGeometry x="715" y="560" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iO5iz-ZMt-wIjHp8NI-l-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO5iz-ZMt-wIjHp8NI-l-1">
           <mxGeometry x="697.5" y="640" width="142.5" height="80" as="geometry" />
