@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T06:59:06.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="wt9PtzhvQZaMV5hDneAL" version="14.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-29T07:12:51.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="m860wc-B-R1kYmV7qJ96" version="14.2.7" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1515,16 +1515,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-25" value="待审核" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="583" y="347" width="117" height="58" as="geometry" />
+          <mxGeometry x="583" y="361" width="117" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-31" value="修改、删除" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="726" y="478" width="87" height="33" as="geometry" />
+          <mxGeometry x="726" y="480" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="RETHFrb38D6lPXcafG_r-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="ATRV1UlgHF6TvNTOa9Ku-32" target="ATRV1UlgHF6TvNTOa9Ku-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RETHFrb38D6lPXcafG_r-38" value="反审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RETHFrb38D6lPXcafG_r-1">
+          <mxGeometry x="0.1574" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RETHFrb38D6lPXcafG_r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="ATRV1UlgHF6TvNTOa9Ku-32" target="ATRV1UlgHF6TvNTOa9Ku-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RETHFrb38D6lPXcafG_r-43" value="记账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RETHFrb38D6lPXcafG_r-2">
+          <mxGeometry x="0.1545" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1.69" y="-9.6" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-32" value="已审核" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="583" y="528" width="117" height="58" as="geometry" />
@@ -1543,8 +1553,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ATRV1UlgHF6TvNTOa9Ku-37" value="冲正" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="727.5" y="419" width="84" height="34" as="geometry" />
+        <mxCell id="ATRV1UlgHF6TvNTOa9Ku-37" value="冲正" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;align=center;arcSize=50;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
+          <mxGeometry x="721" y="406" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="RETHFrb38D6lPXcafG_r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="RETHFrb38D6lPXcafG_r-5" target="ATRV1UlgHF6TvNTOa9Ku-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1614,6 +1624,14 @@
         </mxCell>
         <mxCell id="RETHFrb38D6lPXcafG_r-36" value="结转损益" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="715" y="148" width="92.5" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RETHFrb38D6lPXcafG_r-39" value="审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="641.5021680310501" y="466.996084015525" as="geometry">
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RETHFrb38D6lPXcafG_r-40" value="反记账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="599.5021680310501" y="635.9960840155251" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
