@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:52:02.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="OLzQHRYg5BfzzuFlXJPc" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:52:50.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="I4KWyDIBZkIE9GSgWuYb" version="14.2.9" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1529,7 +1529,7 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-53" value="来源标志（单号）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
           <mxGeometry y="48" width="222" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-218" value="科目（暂时不用传）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
+        <mxCell id="oaZwxGZyciL7erHexCAY-218" value="科目（暂时不用传）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=0;align=left;fontFamily=Helvetica;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
           <mxGeometry y="70" width="222" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-54" value="发生金额" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
