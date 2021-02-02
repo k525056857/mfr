@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T03:18:24.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JEgmefFVaDsUfPDwAhVa" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-02T03:19:37.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="qlRUctVBDMAQSL3i7ryE" version="14.2.9" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1726,7 +1726,7 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-76" value="删改" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="599.5" y="2449" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-78" value="生成凭证" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+        <mxCell id="oaZwxGZyciL7erHexCAY-78" value="点击生成凭证" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="599.5" y="2526" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="oaZwxGZyciL7erHexCAY-82" target="oaZwxGZyciL7erHexCAY-83">
@@ -1862,6 +1862,9 @@
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-135" value="实收、实付调用" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="-159" y="2402" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZwxGZyciL7erHexCAY-142" value="银农直连" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="-132" y="2246" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
