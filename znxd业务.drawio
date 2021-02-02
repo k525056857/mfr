@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:21:29.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="jjq50eszzovALr51ZjWL" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:45:55.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="m5ByMZBTN3uT0Tul3TFS" version="14.2.9" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1507,16 +1507,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVXX_bw623d3zQw3Cgfq" name="惠州">
-    <mxGraphModel dx="3221" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3221" dy="-918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-0" />
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-1" parent="ATRV1UlgHF6TvNTOa9Ku-0" />
-        <mxCell id="meY-C9Xv1esvtVtqoSSg-0" value="创建成功" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="-650" y="240.5" width="117" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="meY-C9Xv1esvtVtqoSSg-1" value="等待配置期初余额" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="-650" y="377" width="117" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-0" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#CCCCCC;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="48" y="3896.199951171875" as="sourcePoint" />
@@ -1535,7 +1529,7 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-53" value="来源标志（单号）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
           <mxGeometry y="48" width="222" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-218" value="科目" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
+        <mxCell id="oaZwxGZyciL7erHexCAY-218" value="科目" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
           <mxGeometry y="70" width="222" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-54" value="发生金额" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
@@ -1623,7 +1617,7 @@
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-163" value="待制单出纳状态为 【已入账】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oaZwxGZyciL7erHexCAY-145">
           <mxGeometry x="-0.284" y="-2" relative="1" as="geometry">
-            <mxPoint x="10" y="-69.5" as="offset" />
+            <mxPoint x="10" y="-52.41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="oaZwxGZyciL7erHexCAY-78" target="oaZwxGZyciL7erHexCAY-164">
@@ -1739,7 +1733,7 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-124" value="业务分类" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-121">
           <mxGeometry y="48" width="128" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-129" value="生成凭证的财务日期" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-121">
+        <mxCell id="oaZwxGZyciL7erHexCAY-129" value="生成凭证的财务年月" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-121">
           <mxGeometry y="70" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-130" value="参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
@@ -1776,7 +1770,7 @@
           <mxGeometry x="879" y="2236" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-146" value="同一个【来源标志】的数据可能发起两次【业务分类】不同的调用&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
-          <mxGeometry x="-116" y="2465" width="189" height="44" as="geometry" />
+          <mxGeometry x="-134" y="2465" width="189" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-160" value="出纳状态更新为【已入账】" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="240.75" y="2830.5" width="97" height="44" as="geometry" />
@@ -1785,7 +1779,7 @@
           <mxGeometry x="611" y="2589" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-166" value="银农直连传的参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
-          <mxGeometry x="-244" y="1817" width="206" height="224" as="geometry" />
+          <mxGeometry x="-346" y="1697" width="206" height="224" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-169" value="业务分类（应收付、实际收付等4种）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="oaZwxGZyciL7erHexCAY-166">
           <mxGeometry y="26" width="206" height="22" as="geometry" />
@@ -1815,7 +1809,7 @@
           <mxGeometry y="202" width="206" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-197" value="待制单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
-          <mxGeometry x="43" y="1817" width="202" height="290" as="geometry" />
+          <mxGeometry x="-59" y="1697" width="202" height="290" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-225" value="凭证来源（支付管理or收入管理）" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-197">
           <mxGeometry y="26" width="202" height="22" as="geometry" />
@@ -1872,7 +1866,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-239" value="出纳账" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
-          <mxGeometry x="342" y="1817" width="202" height="224" as="geometry" />
+          <mxGeometry x="240" y="1697" width="202" height="224" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-240" value="单据编号（自动生成）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-239">
           <mxGeometry y="26" width="202" height="22" as="geometry" />
@@ -1992,6 +1986,15 @@
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-333" value="待制单、出纳、凭证的关系" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="-1176" y="1822" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZwxGZyciL7erHexCAY-336" value="可能有多条，一个明细科目一条出纳账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="366" y="2767" width="214" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZwxGZyciL7erHexCAY-338" value="&amp;nbsp;Q：需求文档里，日记账【绑定凭证】指的是什么？&lt;br&gt;A：就是生成凭证" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="-1462" y="2534" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZwxGZyciL7erHexCAY-339" value="待制单和凭证 1对1&lt;br&gt;待制单和日记账 1对多（可能有多个科目）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="-1496" y="2693" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
