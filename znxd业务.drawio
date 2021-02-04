@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:48:03.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="wMnXS1jkLLvwgLSvAyJV" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-04T02:49:02.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="weriLkyy0Hw731v4w4po" version="14.2.9" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1676,13 +1676,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-106" value="手动录入" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="873" y="2372" width="92.5" height="41.5" as="geometry" />
+          <mxGeometry x="873" y="2455" width="92.5" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="oaZwxGZyciL7erHexCAY-108" target="oaZwxGZyciL7erHexCAY-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-108" value="结转损益" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="1010.75" y="2450.25" width="92.5" height="41.5" as="geometry" />
+          <mxGeometry x="1010.75" y="2455" width="92.5" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-114" value="通知银农" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="-229" y="2862" width="114" height="142" as="geometry" />
