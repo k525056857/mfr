@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T07:35:13.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="CZzrYlrbydBapFuMLaP2" version="14.2.9" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-02-07T07:37:16.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="D5q7CxrgvbtXA3iTc4jx" version="14.2.9" type="github" pages="13">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1952,7 +1952,7 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-333" value="待制单、出纳、凭证的关系" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="-1176" y="1822" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-336" value="可能有多条101，102科目，一个明细科目一条出纳账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
+        <mxCell id="oaZwxGZyciL7erHexCAY-336" value="可能有多条101，102科目，每个明细科目一条出纳账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="331" y="2826" width="290" height="17" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-338" value="&amp;nbsp;Q：需求文档里，日记账【绑定凭证】指的是什么？&lt;br&gt;A：就是生成凭证" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
