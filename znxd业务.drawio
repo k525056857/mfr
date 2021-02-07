@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T07:15:30.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="EwlQpZdTq4qd5p7oJKEt" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-07T07:15:46.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="CxZpzjMyDHExLKBwcs_E" version="14.2.9" type="github" pages="12">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1521,7 +1521,7 @@
           <mxGeometry x="-142" y="2236" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-50" value="银农直连传的参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="-408" y="2290" width="222" height="224" as="geometry" />
+          <mxGeometry x="-408" y="2290" width="222" height="246" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-52" value="业务分类（应收付、实际收付等4种）" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
           <mxGeometry y="26" width="222" height="22" as="geometry" />
@@ -1541,14 +1541,17 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-158" value="资金收支项目（近似看作科目名称）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
           <mxGeometry y="136" width="222" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-281" value="结算方式（现金or转账）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
+        <mxCell id="qHn2MWUjP38cSko88uHK-8" value="资金收支项目code（近似看作科目代码）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" vertex="1" parent="oaZwxGZyciL7erHexCAY-50">
           <mxGeometry y="158" width="222" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-56" value="摘要" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
+        <mxCell id="oaZwxGZyciL7erHexCAY-281" value="结算方式（现金or转账）" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
           <mxGeometry y="180" width="222" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-57" value="附件" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
+        <mxCell id="oaZwxGZyciL7erHexCAY-56" value="摘要" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
           <mxGeometry y="202" width="222" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="oaZwxGZyciL7erHexCAY-57" value="附件" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;verticalAlign=middle;" parent="oaZwxGZyciL7erHexCAY-50" vertex="1">
+          <mxGeometry y="224" width="222" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="oaZwxGZyciL7erHexCAY-63" target="oaZwxGZyciL7erHexCAY-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
