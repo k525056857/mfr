@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T07:33:51.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="2_5WHNXJnj9Knrm0Hkwq" version="14.2.9" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-02-07T07:35:13.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="CZzrYlrbydBapFuMLaP2" version="14.2.9" type="github" pages="13">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1590,10 +1590,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-70" value="生成出纳账" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="501" y="2899" width="110" height="44" as="geometry" />
+          <mxGeometry x="501" y="2848" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-73" value="禁止删改" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="501" y="3013" width="110" height="44" as="geometry" />
+          <mxGeometry x="501" y="2970.5" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="oaZwxGZyciL7erHexCAY-75" target="oaZwxGZyciL7erHexCAY-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1744,7 +1744,7 @@
           <mxGeometry x="-134" y="2465" width="189" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-160" value="出纳状态更新为【已入账】" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="106" y="2858.5" width="97" height="44" as="geometry" />
+          <mxGeometry x="106" y="2882" width="97" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-166" value="银农直连传的参数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="-738" y="1647" width="206" height="224" as="geometry" />
@@ -1952,8 +1952,8 @@
         <mxCell id="oaZwxGZyciL7erHexCAY-333" value="待制单、出纳、凭证的关系" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="-1176" y="1822" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaZwxGZyciL7erHexCAY-336" value="可能有多条，一个明细科目一条出纳账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
-          <mxGeometry x="366" y="2882" width="214" height="17" as="geometry" />
+        <mxCell id="oaZwxGZyciL7erHexCAY-336" value="可能有多条101，102科目，一个明细科目一条出纳账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontColor=#000000;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
+          <mxGeometry x="331" y="2826" width="290" height="17" as="geometry" />
         </mxCell>
         <mxCell id="oaZwxGZyciL7erHexCAY-338" value="&amp;nbsp;Q：需求文档里，日记账【绑定凭证】指的是什么？&lt;br&gt;A：就是生成凭证" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="ATRV1UlgHF6TvNTOa9Ku-1" vertex="1">
           <mxGeometry x="-1462" y="2534" width="100" height="40" as="geometry" />
@@ -2088,7 +2088,7 @@
         <mxCell id="AcPaoRpjAN5jwtP4ALSC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="AcPaoRpjAN5jwtP4ALSC-4" target="AcPaoRpjAN5jwtP4ALSC-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AcPaoRpjAN5jwtP4ALSC-4" value="重试" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+        <mxCell id="AcPaoRpjAN5jwtP4ALSC-4" value="定时重试" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="106" y="3025" width="97" height="44" as="geometry" />
         </mxCell>
       </root>
