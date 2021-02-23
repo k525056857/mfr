@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T05:51:16.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="R0G-VtOfuj2pqY63ECT4" version="14.4.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-02-23T06:03:41.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Z5LHVmEEpP5VAfssck7b" version="14.4.2" type="github" pages="13">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2635,6 +2635,9 @@
         </mxCell>
         <mxCell id="S73vT1CWG1Vbgaqguaw1-220" value="2021年5月报表数据取值" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="3506" y="3281" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S73vT1CWG1Vbgaqguaw1-240" value="是否禁止录入损益类的科目？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="2653" y="3082" width="143" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
