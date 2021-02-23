@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T05:06:58.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="j0zUb4vAK5FnF3EPQ3KC" version="14.4.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-02-23T05:14:58.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="dKpk9aUwxKeu767ra601" version="14.4.2" type="github" pages="13">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1507,12 +1507,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVXX_bw623d3zQw3Cgfq" name="惠州">
-    <mxGraphModel dx="3221" dy="-518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3730" dy="-233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-0" />
         <mxCell id="ATRV1UlgHF6TvNTOa9Ku-1" parent="ATRV1UlgHF6TvNTOa9Ku-0" />
         <mxCell id="S73vT1CWG1Vbgaqguaw1-155" value="3月结转收益流程" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
-          <mxGeometry x="2104" y="3454" width="536" height="414" as="geometry" />
+          <mxGeometry x="2104" y="3454" width="549" height="273" as="geometry" />
         </mxCell>
         <mxCell id="S73vT1CWG1Vbgaqguaw1-154" value="2月结转收益流程" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry x="2124" y="2622" width="536" height="414" as="geometry" />
@@ -2120,8 +2120,8 @@
         </mxCell>
         <mxCell id="S73vT1CWG1Vbgaqguaw1-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;strokeColor=#CCCCCC;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2445" y="3840.099951171875" as="sourcePoint" />
-            <mxPoint x="2445" y="2206.9" as="targetPoint" />
+            <mxPoint x="2452" y="3760.199951171875" as="sourcePoint" />
+            <mxPoint x="2452" y="2127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S73vT1CWG1Vbgaqguaw1-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="ATRV1UlgHF6TvNTOa9Ku-1" source="S73vT1CWG1Vbgaqguaw1-8" target="S73vT1CWG1Vbgaqguaw1-13">
@@ -2461,6 +2461,12 @@
             <mxPoint x="1939" y="3181" as="sourcePoint" />
             <mxPoint x="3362.666422526042" y="3181" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S73vT1CWG1Vbgaqguaw1-170" value="财务配置" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="2150" y="2113" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S73vT1CWG1Vbgaqguaw1-171" value="凭证" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;" vertex="1" parent="ATRV1UlgHF6TvNTOa9Ku-1">
+          <mxGeometry x="2555" y="2120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
