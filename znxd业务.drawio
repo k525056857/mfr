@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T06:22:41.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="jnJyFj8qNfw9T59OTJj7" version="14.4.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-02-26T10:21:39.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="AmhbT1_YPdg1yNrFCcDz" version="14.4.2" type="github" pages="14">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2751,7 +2751,7 @@
         <mxCell id="t_Hj-YgcV--spBSaPfYL-24" value="刷新redis的key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t_Hj-YgcV--spBSaPfYL-1">
           <mxGeometry x="740" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t_Hj-YgcV--spBSaPfYL-26" value="无法处理session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="t_Hj-YgcV--spBSaPfYL-1">
+        <mxCell id="t_Hj-YgcV--spBSaPfYL-26" value="当前session设置为立即过期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="t_Hj-YgcV--spBSaPfYL-1">
           <mxGeometry x="940" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
