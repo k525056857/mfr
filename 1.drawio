@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T06:01:46.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" version="14.5.1" etag="P_Rt_WIOo80DM9-HWtbp" type="github"><diagram id="QcUXIH7ZcVlQ1F9RuPFS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-29T06:14:17.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="MEunXGmAj0b3Mh-8-U7p" version="14.5.1" type="github">
+  <diagram id="QcUXIH7ZcVlQ1F9RuPFS" name="第 1 页">
+    <mxGraphModel dx="865" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oz_G7R2gG1yxypFIp1w9-2" target="Oz_G7R2gG1yxypFIp1w9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-2" value="正常请求其他所有业务接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="298" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oz_G7R2gG1yxypFIp1w9-3" target="Oz_G7R2gG1yxypFIp1w9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-3" value="轮询 /user/checkIfOtherPeopleLogin 接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="216" width="180" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oz_G7R2gG1yxypFIp1w9-5" target="Oz_G7R2gG1yxypFIp1w9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oz_G7R2gG1yxypFIp1w9-5" target="Oz_G7R2gG1yxypFIp1w9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-5" value="返回的errcode == 329" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="248" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-6" value="1. 跳转到登录页面，2. 在登录页面展示提示信息（errmsg）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="268" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-12" value="按原有逻辑，无需改动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_G7R2gG1yxypFIp1w9-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="328" width="22" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
