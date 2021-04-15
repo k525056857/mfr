@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T17:09:00.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="azHtIwSmwtQDq9T6eLcq" version="13.0.1" type="github"><diagram id="3b8iMy1z1MVpcng3oLAr" name="第 1 页">3VbbjpswEP2aeUzFJYB5DAnpVt2qldJu1UcvdsArwMgxuezX1w4GQkLS7WpXlfoUz5mLZ86Mh4A7L/YfBa6yL5zQHByL7MFdgOPYlovUj0YODeIhqwFSwYgx6oEVe6atp0FrRuhmYCg5zyWrhmDCy5ImcoBhIfhuaLbm+fDWCqf0AlglOL9EfzIiswZFTtDjd5SlWXuz7YeNpsCtsalkk2HCdyeQG4M7F5zL5lTs5zTX5LW8NH7LK9ouMUFL+RKHh89ffxQBevj09D2zEbr7tU0PE6+JssV5bQo2ycpDy4DgdUmoDmKBG+0yJumqwonW7lTPFZbJIleSrY4mHBWS7q/maXfVq7GhvKBSHJSJcQhawszEOL6Rdz3/HanZCfedITY9T7vYPS3qYJj5C5bcP7NEiRobI3IhM57yEudxj0ZDHnube84rw94TlfJg3gCuJR/jVl90m1mVF69FQm8U1L4kLFIqb9g5450SNMeSbYd5vDnr00vWYwTREsIYYh9QDDNPH0IfohBiD6I5oKXy4ALi5VGa45KMtuoeP6pFNaAX5ywt1TlRbFKhAD3FTG2CmVEUjJCmk3TDnvHjMZ7uZcVZKY/VexF4i1vPwKwp49wvh9MmXh/Bq2/G+uBMh4+mkV7cKBP5m66kDztxBkEn9tkD4+v1Rs3PeaO7/F7fe3uk9x6EFqAFxAHMAoisrslaNZsCmmqVtvHHxuJfr7XgbK2Fl2vNHltr77bVnP+e46n7fhwrsf92N2Pf/wNy498=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T13:58:49.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="zmq_dDteJCXsQ5eKgocL" version="14.5.10" type="github">
+  <diagram id="3b8iMy1z1MVpcng3oLAr" name="第 1 页">
+    <mxGraphModel dx="638" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-1" value="获取农友数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UQGHG8s-UIIQFkD9So-g-2" target="UQGHG8s-UIIQFkD9So-g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-2" value="转换后的科目字典（有问题的数据）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UQGHG8s-UIIQFkD9So-g-3" target="UQGHG8s-UIIQFkD9So-g-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-3" value="清空131，201，241，311下的二级科目，用科目模板代替" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UQGHG8s-UIIQFkD9So-g-5" target="UQGHG8s-UIIQFkD9So-g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-5" value="遍历农友科目数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-7" value="对比名称，存在则合并，不存在则顺延" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="770" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UQGHG8s-UIIQFkD9So-g-9" value="099，999特殊处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
