@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T06:04:34.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="Zw08s90Lbks1cSbEpOny" version="17.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-25T06:11:13.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="Pmns9ls4tzWAMQkBKMgk" version="17.4.6" type="github" pages="18">
   <diagram id="ZlR-kkMjVnZxiTd7vD3t" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2623,22 +2623,41 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AQFZV_bRCG8YYSuItl_Q-2" value="江阴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQFZV_bRCG8YYSuItl_Q-3" value="宜兴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQFZV_bRCG8YYSuItl_Q-4" value="主城区6个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQFZV_bRCG8YYSuItl_Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="130" height="220" as="geometry" />
+          <mxGeometry x="60" y="260" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="AQFZV_bRCG8YYSuItl_Q-7" value="压缩包" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="380" width="95" height="60" as="geometry" />
+          <mxGeometry x="77.5" y="380" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AQFZV_bRCG8YYSuItl_Q-9" value="Minio服务" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="210" height="220" as="geometry" />
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-9" value="Minio" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AQFZV_bRCG8YYSuItl_Q-10" target="AQFZV_bRCG8YYSuItl_Q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-14" value="每天定&lt;br&gt;时解压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AQFZV_bRCG8YYSuItl_Q-11">
+          <mxGeometry x="0.1745" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AQFZV_bRCG8YYSuItl_Q-10" target="AQFZV_bRCG8YYSuItl_Q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-15" value="把解压后的&lt;br&gt;文件上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AQFZV_bRCG8YYSuItl_Q-12">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint x="4" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQFZV_bRCG8YYSuItl_Q-10" value="压缩包解压、上传服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
