@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:45:34.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="ZTSYybRjCaQna9mjj3vL" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T08:19:43.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="zEdqFt6xd2fMFAXGD1at" version="20.4.0" type="github">
   <diagram id="B1prIBq7vLnyyEg8FFDx" name="第 1 页">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JVBzALuw_3yvz0hgOkPb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVBzALuw_3yvz0hgOkPb-5" target="JVBzALuw_3yvz0hgOkPb-6" edge="1">
+        <mxCell id="JVBzALuw_3yvz0hgOkPb-7" value="根据当前用户选择的是行政区划还是经济组织来渲染" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JVBzALuw_3yvz0hgOkPb-5" target="JVBzALuw_3yvz0hgOkPb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVBzALuw_3yvz0hgOkPb-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
