@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T02:02:58.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="oOT_uGKscQiKl1fwGJsJ" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T10:08:42.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="XNLjm6SjmQHJeiHugmQY" version="20.5.1" type="github">
   <diagram id="X07Baq81gWpiOjJxXAKM" name="第 1 页">
-    <mxGraphModel dx="1822" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
         </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-67" value="根据省产交项目编码&lt;br&gt;定时拉取产交合同、附件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P25dvQ3lvKpP32Pxlyo-66">
           <mxGeometry x="0.12" y="1" relative="1" as="geometry">
-            <mxPoint x="4" y="30" as="offset" />
+            <mxPoint x="1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -198,11 +198,11 @@
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-81" target="7P25dvQ3lvKpP32Pxlyo-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7P25dvQ3lvKpP32Pxlyo-81" value="增删改产交合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-81" value="新增产交合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="780" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-87" value="产交合同数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="775" width="90" height="105" as="geometry" />
+          <mxGeometry x="805" y="752.5" width="90" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
