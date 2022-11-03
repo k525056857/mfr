@@ -1,9 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T01:44:10.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="3hPx9y-1aCy-xafv6jiW" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T02:02:58.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="oOT_uGKscQiKl1fwGJsJ" version="20.5.1" type="github">
   <diagram id="X07Baq81gWpiOjJxXAKM" name="第 1 页">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="750" width="1220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-62" target="7P25dvQ3lvKpP32Pxlyo-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="848" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-67" value="根据省产交项目编码&lt;br&gt;定时拉取产交合同、附件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P25dvQ3lvKpP32Pxlyo-66">
+          <mxGeometry x="0.12" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1140" width="510" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-1" target="7P25dvQ3lvKpP32Pxlyo-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -59,6 +75,11 @@
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-27" target="7P25dvQ3lvKpP32Pxlyo-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-40" value="定时拉取数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P25dvQ3lvKpP32Pxlyo-36">
+          <mxGeometry x="-0.1394" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-27" target="7P25dvQ3lvKpP32Pxlyo-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -82,8 +103,106 @@
         </mxCell>
         <mxCell id="7P25dvQ3lvKpP32Pxlyo-35" value="关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P25dvQ3lvKpP32Pxlyo-34">
           <mxGeometry x="-0.0909" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-10" target="7P25dvQ3lvKpP32Pxlyo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-41" value="项目申请单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1180" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-42" value="业务字段" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-41">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-45" value="关联的资产、资源" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-41">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-43" value="经济组织id" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-41">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-44" value="省产交项目编码" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-41">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-46" value="产交合同" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1210" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-47" value="业务字段" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-46">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-57" value="产交合同编码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-46">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-50" value="省产交项目编码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-46">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-54" value="产交合同附件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1240" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-55" value="产交合同编码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-54">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-56" value="附件路径" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7P25dvQ3lvKpP32Pxlyo-54">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-57" target="7P25dvQ3lvKpP32Pxlyo-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-44" target="7P25dvQ3lvKpP32Pxlyo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-50" target="7P25dvQ3lvKpP32Pxlyo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-55" target="7P25dvQ3lvKpP32Pxlyo-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-68" target="7P25dvQ3lvKpP32Pxlyo-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-68" value="新增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1020" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-69" target="7P25dvQ3lvKpP32Pxlyo-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-69" value="审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1020" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-71" target="7P25dvQ3lvKpP32Pxlyo-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-71" value="提交省产交" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1020" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-75" target="7P25dvQ3lvKpP32Pxlyo-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-78" value="返回省产交项目编码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P25dvQ3lvKpP32Pxlyo-77">
+          <mxGeometry x="0.2842" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-75" target="7P25dvQ3lvKpP32Pxlyo-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-75" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-79" target="7P25dvQ3lvKpP32Pxlyo-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-79" value="省产交业务流程。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P25dvQ3lvKpP32Pxlyo-81" target="7P25dvQ3lvKpP32Pxlyo-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-81" value="增删改产交合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7P25dvQ3lvKpP32Pxlyo-87" value="产交合同数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="775" width="90" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
