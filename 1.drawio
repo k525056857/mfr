@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:37:10.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="Ti39yEfH0i2P8RKQokz5" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:47:59.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="M5fdU7-Dky10X76R9u3m" version="20.5.1" type="github" pages="4">
   <diagram id="QcUXIH7ZcVlQ1F9RuPFS" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -866,6 +866,62 @@
           <mxGeometry x="-690" y="1135" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dj1lGXjo2hcAbmacF3ch-27" value="无锡三资系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="890" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tdcFIRSigINhAi3gX2e1" name="第 4 页">
+    <mxGraphModel dx="2530" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-3" value="区县上报数据解析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="740" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-6" value="江苏省厅数据汇交" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="220" y="920" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-7" value="南大尚城前置库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-8" value="调用接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;fontColor=default;" edge="1" parent="1" source="6XPj-3veI-UzHMpNK6VZ-9" target="6XPj-3veI-UzHMpNK6VZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-9" value="产交模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="830" y="920" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-10" value="省产交系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-12" value="查询数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;fontColor=default;" edge="1" parent="1" source="6XPj-3veI-UzHMpNK6VZ-13" target="6XPj-3veI-UzHMpNK6VZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-13" value="农经大数据指挥舱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="500" y="920" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-16" value="户户通推送" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="920" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-17" value="基础数据模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="740" width="780" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-18" value="户户通平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1110" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Helvetica;fontSize=19;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720.0000000000002" y="1090" as="sourcePoint" />
+            <mxPoint x="1270" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-21" value="区县系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1120" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-22" value="对接的外部系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1135" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPj-3veI-UzHMpNK6VZ-23" value="无锡三资系统模块" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-690" y="890" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
