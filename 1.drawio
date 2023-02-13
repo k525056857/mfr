@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T01:58:28.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="hqhJh5y3km223r9-tzt1" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:03:12.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="i8lnMOwAqfYQeo_A8rAr" version="20.6.2" type="github" pages="7">
   <diagram id="QcUXIH7ZcVlQ1F9RuPFS" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1644,7 +1644,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-78" value="warn_jzhjd&#xa;记账进度类-记账进度预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="10" width="170" height="110" as="geometry" />
+          <mxGeometry x="2070" y="10" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-79" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-78">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1653,7 +1653,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-81" value="warn_md_glmd&#xa;名单类-关联名单预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="250" width="170" height="110" as="geometry" />
+          <mxGeometry x="2020" y="130" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-82" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-81">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1662,7 +1662,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-84" value="warn_md_hmd&#xa;名单类-黑名单预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="250" width="170" height="110" as="geometry" />
+          <mxGeometry x="2210" y="130" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-85" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-84">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1671,7 +1671,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-87" value="warn_zh_chys&#xa;账户类-超预算预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="370" width="170" height="110" as="geometry" />
+          <mxGeometry x="1430" y="260" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-88" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-87">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1680,7 +1680,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-90" value="warn_zh_dezj&#xa;账户类-大额资金预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="370" width="170" height="110" as="geometry" />
+          <mxGeometry x="1620" y="260" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-91" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-90">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1689,7 +1689,7 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-93" value="warn_zh_dtkh&#xa;账户类-多头开户预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="370" width="170" height="110" as="geometry" />
+          <mxGeometry x="1810" y="260" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-94" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-93">
           <mxGeometry y="50" width="170" height="30" as="geometry" />
@@ -1698,13 +1698,76 @@
           <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-96" value="warn_zh_kmfsyd&#xa;账户类-科目发生额异动预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="370" width="180" height="110" as="geometry" />
+          <mxGeometry x="2000" y="260" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-97" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-96">
           <mxGeometry y="50" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bapAqcOGx02XRRly3pEb-98" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-96">
           <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-99" value="warn_zh_tzhhdbzhzh&#xa;账户类-同账户多笔转账预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="260" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-100" value="main_warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-99">
+          <mxGeometry y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-101" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-99">
+          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-102" value="warn_zh_tzhhlschx&#xa;账户类-同账户累收超限预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="385" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-103" value="main_warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-102">
+          <mxGeometry y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-104" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-102">
+          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-105" value="warn_zh_xbbt&#xa;账户类-虚报补贴预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="390" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-106" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-105">
+          <mxGeometry y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-107" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-105">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-108" value="warn_zh_xzhzj&#xa;账户类-闲置资金预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="390" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-109" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-108">
+          <mxGeometry y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-110" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-108">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-111" value="warn_zh_xzhzj&#xa;账户类-账实不符预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="390" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-112" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-111">
+          <mxGeometry y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-113" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-111">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-114" value="warn_zh_xzhzj&#xa;账户类-资金支出异常预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="390" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-115" value="warn_code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-114">
+          <mxGeometry y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-116" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-114">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-117" value="warn_detail_attachment&#xa;预警明细附件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="170" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-118" value="warn_type" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-117">
+          <mxGeometry y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-119" value="relation_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-117">
+          <mxGeometry y="80" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
