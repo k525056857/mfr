@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T01:33:34.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="YeWf8UAAcCYJfoSCA90w" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-13T01:35:15.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="TUPTNmw-AYP0DqEseshw" version="20.6.2" type="github" pages="7">
   <diagram id="QcUXIH7ZcVlQ1F9RuPFS" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1420,6 +1420,36 @@
         </mxCell>
         <mxCell id="EPGzSWsfj5mDoaOS_72m-32" value="fin_subject_template&#xa;科目模板" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="770" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-35" value="report_kmyeb&#xa;报表-科目余额表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="990" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-36" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-35">
+          <mxGeometry y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-37" value="report_szmxb&#xa;报表-收支明细表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="990" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-38" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-37">
+          <mxGeometry y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-1" value="report_zcfzb&#xa;报表-资产负债表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="795" y="990" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-2" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-1">
+          <mxGeometry y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-4" value="report_syfpb&#xa;报表-收益分配表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-5" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-4">
+          <mxGeometry y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-7" value="report_zcfzb&#xa;报表-债权债务表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="940" y="990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bapAqcOGx02XRRly3pEb-8" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="bapAqcOGx02XRRly3pEb-7">
+          <mxGeometry y="40" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
