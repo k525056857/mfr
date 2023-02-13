@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T01:30:23.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="yc04wpjcb5NTtjY2Vl-L" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-13T01:33:34.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="YeWf8UAAcCYJfoSCA90w" version="20.6.2" type="github" pages="7">
   <diagram id="QcUXIH7ZcVlQ1F9RuPFS" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1380,10 +1380,13 @@
           <mxGeometry y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EPGzSWsfj5mDoaOS_72m-20" value="fin_voucher_info&#xa;凭证信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="620" width="160" height="80" as="geometry" />
+          <mxGeometry x="330" y="620" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EPGzSWsfj5mDoaOS_72m-21" value="vi_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-20">
           <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-33" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-20">
+          <mxGeometry y="80" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EPGzSWsfj5mDoaOS_72m-22" value="fin_voucher_subject&#xa;凭证分录" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="550" y="590" width="160" height="80" as="geometry" />
@@ -1396,6 +1399,27 @@
         </mxCell>
         <mxCell id="EPGzSWsfj5mDoaOS_72m-25" value="vi_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-24">
           <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-26" value="fin_subject_balance&#xa;科目余额" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-34" value="eco_org_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-26">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-28" value="fin_report_template&#xa;报表模板" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-31" value="template_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-28">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-29" value="fin_report_template_formula&#xa;报表公式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-30" value="template_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="EPGzSWsfj5mDoaOS_72m-29">
+          <mxGeometry y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPGzSWsfj5mDoaOS_72m-32" value="fin_subject_template&#xa;科目模板" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
