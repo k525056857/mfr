@@ -1005,7 +1005,7 @@
             <mxPoint x="58" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-10" value="minio服务器 （2.20.102.44）" style="swimlane;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;fillColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-10" value="mysql服务器 （2.20.102.44）" style="swimlane;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;fillColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="870" width="400" height="190" as="geometry" />
         </mxCell>
       </root>
