@@ -1011,6 +1011,15 @@
         <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-10" value="mysql服务器 （2.20.102.44）" style="swimlane;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;fillColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="870" width="400" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-13" value="生产服务器（2.20.103.140）" style="swimlane;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;fillColor=default;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="430" width="435" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-15" value="&lt;b&gt;无锡三期&lt;/b&gt;&lt;b&gt;前端服务&lt;/b&gt;&lt;div&gt;路径：&lt;/div&gt;&lt;div&gt;分支：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="Q9Ro4fPRrMMkOp2GmFJ7-13">
+          <mxGeometry x="50" y="40" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9Ro4fPRrMMkOp2GmFJ7-17" value="&lt;b&gt;无锡三期后端服务&lt;/b&gt;&lt;div&gt;路径：&lt;/div&gt;&lt;div&gt;分支：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="Q9Ro4fPRrMMkOp2GmFJ7-13">
+          <mxGeometry x="50" y="160" width="250" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
